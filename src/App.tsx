@@ -74,7 +74,7 @@ export default function App() {
             cart.map((item) => (
               <div key={item.id} className="cart-item-row">
                 <h4>{item.title}</h4>
-                <p>Price: ${item.price.toFixed(2)} x{item.quantity}</p>
+                <p>Price: ${item.price.toFixed(2)} x {item.quantity}</p>
               </div>
             ))
           )}
