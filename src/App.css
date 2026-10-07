@@ -17,7 +17,7 @@
   gap: 32px;
 }
 @media (max-width: 768px) {
-  #shop-layout {
+  #app-layout {
     flex-direction: column;
   }
 }
