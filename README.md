@@ -1,6 +1,6 @@
 # Edge Shop E-Commerce Dashboard (React + TypeScript)
 
-* **Live Demo:** [Click to Test the Demo](https://github.io)
+* **Application Interface:** [Click to Test the Demo](https://mahadasim-dev.github.io/ecommerce-shop/)
 
 ### What it does
 A responsive online store app with a live-updating shopping cart basket using a REST API.
